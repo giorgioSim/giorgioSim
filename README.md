@@ -1,10 +1,12 @@
 Hi 👋 My name is Georgios Symeonidis
 ====================================
 
-Software Developer (to be)
+Aspiring Full-Stack Developer
 --------------------------
 
-Α software developer on a perpetual quest for knowledge (and the perfect cup of coffee). While still a student, I've already tackled a variety of projects and can't wait to dive into even more. Learning new things is my jam, whether it's a new tech stack, solving tricky problems, or discovering the magical shortcuts in my editor. Let's build something awesome together! 🚀
+A full-stack developer on a perpetual quest for knowledge (and the perfect cup of coffee).
+As a software engineering student, I’ve already built a variety of projects and can’t wait to dive into more.
+Whether it’s exploring new tech stacks, solving tricky bugs, or finding the magical shortcuts in my editor — I just love to build things that work beautifully. 🚀
 
 * 🌍  I'm based in Thessaloniki, Greece
 * ✉️  You can contact me at [giorgio.simeon@gmail.com](mailto:giorgio.simeon@gmail.com)
