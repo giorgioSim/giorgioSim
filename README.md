@@ -44,7 +44,7 @@ Whether it’s exploring new tech stacks, solving tricky bugs, or finding the ma
 <h5 align="left">🌐 Social</h5>
 </a> <a href="https://www.linkedin.com/in/georgios-symeonidis-6925682a0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioSim&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
